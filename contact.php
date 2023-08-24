@@ -40,7 +40,6 @@
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Jeferson Junio Beijo</h4>
-                        <div class="status">Estudante Programador WEB</div>
                         <ul class="header__social">
                             <li>
                                 <a href="https://www.linkedin.com/in/jeferson-junio-beijo-0b4a975b/" target="blank"
