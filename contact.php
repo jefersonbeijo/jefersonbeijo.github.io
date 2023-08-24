@@ -168,7 +168,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Jeferson Junio Beijo</footer>
+                    <footer class="footer">© Jeferson Junio Beijo 2023</footer>
                 </div>
             </div>
         </div>
